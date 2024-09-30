@@ -13,6 +13,7 @@ A análise técnica do projeto foi desenvolvida no MIRO, utilizando a técnica d
 Veja a análise do MIRO
 [![Veja a análise no MIRO](img/analiseOverview.jpg)](https://miro.com/app/live-embed/uXjVMT3e9yc=/?moveToViewport=-324597,76682,5134,4096&embedId=48277352809)
 
+Veja a Planilha de Análise de Projeto no excell [Análise](levantamentoRequisitos/Parabank de Levantamento de Requisitos.xlsx)
 
 
 ### Contato

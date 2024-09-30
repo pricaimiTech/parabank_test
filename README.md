@@ -46,7 +46,7 @@ O Levantamento de requsitos das funcionalidades foram adicionadas no Excell, que
 
 2 - **img**: arquivos de imagem que estão linkados no arquivo Readme.md
 
-3 - **levantamentoRequisitos**: pasta com arquivo excell contendo a análise completa do projeto
+3 - **levantamentoRequisitos**: pasta com arquivo excell contendo a análise completa do projeto  (em breve)
 
 4 - **analise_miro_embed.html**: site que ficara disponível o embed no arquivo de analise no MIRO. (em breve)
 

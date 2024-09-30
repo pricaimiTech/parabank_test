@@ -16,13 +16,8 @@ A análise técnica do projeto foi desenvolvida no MIRO, utilizando a técnica d
 
 - User Story
 - Regras de Negocio
-- Cenário de Teste
-- Requisições HTTP
 
-No frame abaixo, é possível visualizar esta análise.
-
-
-[![Veja a análise no MIRO](img/analise_miro.jpg)](analise_miro_embed.html)
+![Veja a análise no MIRO](levantamentoRequisitos/img/analiseOverview.jpg)
 
 
 ### Levantamento de Requisitos
@@ -31,24 +26,25 @@ O Levantamento de requsitos das funcionalidades foram adicionadas no Excell, que
 
 ```
 .
-├── analiseTecnica
+├── iframes
 ├── img
-    ├── analise_miro.jpg
     └── parabank.png
 ├── levantamentoRequisitos
+    └── img
     └── Levantamento de Requisitos.xlsx
+    └── Readme.md
 ├── README.md
 └── analise_miro_embed.html
 
 ```
 
-1 - **analiseTecnica**: 
+1 - **iframes**: codigo embed do miro para melhor visualização 
 
 2 - **img**: arquivos de imagem que estão linkados no arquivo Readme.md
 
 3 - **levantamentoRequisitos**: pasta com arquivo excell contendo a análise completa do projeto  (em breve)
 
-4 - **analise_miro_embed.html**: site que ficara disponível o embed no arquivo de analise no MIRO. (em breve)
+4 - **plano de teste**: será armazenado o plano de teste. (em breve)
 
 
 ### Contato
